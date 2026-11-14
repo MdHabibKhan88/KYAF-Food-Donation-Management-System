@@ -2,6 +2,7 @@
 
 return [
     'default' => env('DB_CONNECTION', 'mysql'),
+
     'connections' => [
         'sqlite' => [
             'driver' => 'sqlite',
@@ -9,6 +10,7 @@ return [
             'prefix' => '',
             'foreign_key_constraints' => true,
         ],
+
         'mysql' => [
             'driver' => 'mysql',
             'host' => env('DB_HOST', '127.0.0.1'),
@@ -23,8 +25,15 @@ return [
             'prefix_indexes' => true,
             'strict' => true,
             'engine' => 'InnoDB',
-            'options' => [],
+
+            'options' => extension_loaded('pdo_mysql') ? [
+                PDO::MYSQL_ATTR_SSL_CA => env('MYSQL_ATTR_SSL_CA'),
+            ] : [],
         ],
     ],
-    'migrations' => ['table' => 'migrations', 'update_date_on_publish' => true],
+
+    'migrations' => [
+        'table' => 'migrations',
+        'update_date_on_publish' => true,
+    ],
 ];
