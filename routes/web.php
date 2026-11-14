@@ -169,3 +169,15 @@ Route::middleware(['auth', 'role:ADMIN'])->prefix('admin')->name('admin.')->grou
     Route::get('/messages/{message}', [Admin\ContactMessageController::class, 'show'])->name('messages.show');
     Route::put('/messages/{message}', [Admin\ContactMessageController::class, 'update'])->name('messages.update');
 });
+
+
+Route::get('/db-ssl-check', function () {
+    $path = env('MYSQL_ATTR_SSL_CA');
+
+    return response()->json([
+        'ca_path' => $path,
+        'file_exists' => $path ? file_exists($path) : false,
+        'file_readable' => $path ? is_readable($path) : false,
+        'pdo_mysql' => extension_loaded('pdo_mysql'),
+    ]);
+});
