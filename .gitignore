@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+/public/storage
+/public/hot
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+/storage/*.key
+/storage/logs/*.log
+Homestead.json
+Homestead.yaml
+auth.json
