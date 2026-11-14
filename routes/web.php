@@ -172,12 +172,16 @@ Route::middleware(['auth', 'role:ADMIN'])->prefix('admin')->name('admin.')->grou
 
 
 Route::get('/db-ssl-check', function () {
-    $path = env('MYSQL_ATTR_SSL_CA');
+    $path = '/etc/secrets/tidb-ca.pem';
 
     return response()->json([
-        'ca_path' => $path,
-        'file_exists' => $path ? file_exists($path) : false,
-        'file_readable' => $path ? is_readable($path) : false,
-        'pdo_mysql' => extension_loaded('pdo_mysql'),
+        'file_exists' => file_exists($path),
+        'file_readable' => is_readable($path),
+        'file_permissions' => substr(sprintf('%o', fileperms($path)), -4),
+        'file_owner' => fileowner($path),
+        'php_user' => get_current_user(),
+        'php_process_uid' => function_exists('posix_geteuid')
+            ? posix_geteuid()
+            : 'POSIX unavailable',
     ]);
 });
