@@ -1,0 +1,541 @@
+﻿division,district_en,district_bn,upazila_en,upazila_bn,thana_en,thana_bn
+Dhaka,Dhaka,ঢাকা,Dhamrai,ধামরাই,Dhamrai,ধামরাই
+Dhaka,Dhaka,ঢাকা,Dohar,দোহার,Dohar,দোহার
+Dhaka,Dhaka,ঢাকা,Keraniganj,কেরানীগঞ্জ,Keraniganj,কেরানীগঞ্জ
+Dhaka,Dhaka,ঢাকা,Nawabganj,নবাবগঞ্জ,Nawabganj,নবাবগঞ্জ
+Dhaka,Dhaka,ঢাকা,Savar,সাভার,Savar,সাভার
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Adabor,আদাবর
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Badda,বাড্ডা
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Banani,বনানী
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Bangshal,বংশাল
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Bhashantek,ভাষানটেক
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Bimanbandar,বিমানবন্দর
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Cantonment,ক্যান্টনমেন্ট
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Chawkbazar,চকবাজার
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Dakshinkhan,দক্ষিণখান
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Darus Salam,দারুস সালাম
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Demra,ডেমরা
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Dhanmondi,ধানমন্ডি
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Gendaria,গেন্ডারিয়া
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Gulshan,গুলশান
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Hazaribagh,হাজারীবাগ
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Jatrabari,যাত্রাবাড়ী
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Kadamtali,কদমতলী
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Kafrul,কাফরুল
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Kalabagan,কলাবাগান
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Kamrangirchar,কামরাঙ্গীরচর
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Khilgaon,খিলগাঁও
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Khilkhet,খিলক্ষেত
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Kotwali,কোতোয়ালী
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Lalbagh,লালবাগ
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Mirpur,মিরপুর
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Mohammadpur,মোহাম্মদপুর
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Motijheel,মতিঝিল
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Mugda,মুগদা
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,New Market,নিউমার্কেট
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Pallabi,পল্লবী
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Paltan,পল্টন
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Ramna,রমনা
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Rampura,রামপুরা
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Sabujbagh,সবুজবাগ
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Shah Ali,শাহ আলী
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Shahbagh,শাহবাগ
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Sher-e-Bangla Nagar,শেরেবাংলা নগর
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Shyampur,শ্যামপুর
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Sutrapur,সূত্রাপুর
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Tejgaon,তেজগাঁও
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Tejgaon Industrial Area,তেজগাঁও শিল্পাঞ্চল
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Turag,তুরাগ
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Uttar Khan,উত্তরখান
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Uttara East,উত্তরা পূর্ব
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Uttara West,উত্তরা পশ্চিম
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Vatara,ভাটারা
+Dhaka,Dhaka,ঢাকা,Dhaka Metropolitan,ঢাকা মহানগর,Wari,ওয়ারী
+Dhaka,Faridpur,ফরিদপুর,Alfadanga,আলফাডাঙ্গা,Alfadanga,আলফাডাঙ্গা
+Dhaka,Faridpur,ফরিদপুর,Bhanga,ভাঙ্গা,Bhanga,ভাঙ্গা
+Dhaka,Faridpur,ফরিদপুর,Boalmari,বোয়ালমারী,Boalmari,বোয়ালমারী
+Dhaka,Faridpur,ফরিদপুর,Charbhadrasan,চরভদ্রাসন,Charbhadrasan,চরভদ্রাসন
+Dhaka,Faridpur,ফরিদপুর,Faridpur Sadar,ফরিদপুর সদর,Faridpur Sadar,ফরিদপুর সদর
+Dhaka,Faridpur,ফরিদপুর,Madhukhali,মধুখালী,Madhukhali,মধুখালী
+Dhaka,Faridpur,ফরিদপুর,Nagarkanda,নগরকান্দা,Nagarkanda,নগরকান্দা
+Dhaka,Faridpur,ফরিদপুর,Sadarpur,সদরপুর,Sadarpur,সদরপুর
+Dhaka,Faridpur,ফরিদপুর,Saltha,সালথা,Saltha,সালথা
+Dhaka,Gazipur,গাজীপুর,Gazipur Sadar,গাজীপুর সদর,Gazipur Sadar,গাজীপুর সদর
+Dhaka,Gazipur,গাজীপুর,Kaliakair,কালিয়াকৈর,Kaliakair,কালিয়াকৈর
+Dhaka,Gazipur,গাজীপুর,Kaliganj,কালীগঞ্জ,Kaliganj,কালীগঞ্জ
+Dhaka,Gazipur,গাজীপুর,Kapasia,কাপাসিয়া,Kapasia,কাপাসিয়া
+Dhaka,Gazipur,গাজীপুর,Sreepur,শ্রীপুর,Sreepur,শ্রীপুর
+Dhaka,Gopalganj,গোপালগঞ্জ,Gopalganj Sadar,গোপালগঞ্জ সদর,Gopalganj Sadar,গোপালগঞ্জ সদর
+Dhaka,Gopalganj,গোপালগঞ্জ,Kashiani,কাশিয়ানী,Kashiani,কাশিয়ানী
+Dhaka,Gopalganj,গোপালগঞ্জ,Kotalipara,কোটালীপাড়া,Kotalipara,কোটালীপাড়া
+Dhaka,Gopalganj,গোপালগঞ্জ,Muksudpur,মুকসুদপুর,Muksudpur,মুকসুদপুর
+Dhaka,Gopalganj,গোপালগঞ্জ,Tungipara,টুঙ্গিপাড়া,Tungipara,টুঙ্গিপাড়া
+Dhaka,Kishoreganj,কিশোরগঞ্জ,Austagram,অষ্টগ্রাম,Austagram,অষ্টগ্রাম
+Dhaka,Kishoreganj,কিশোরগঞ্জ,Bajitpur,বাজিতপুর,Bajitpur,বাজিতপুর
+Dhaka,Kishoreganj,কিশোরগঞ্জ,Bhairab,ভৈরব,Bhairab,ভৈরব
+Dhaka,Kishoreganj,কিশোরগঞ্জ,Hossainpur,হোসেনপুর,Hossainpur,হোসেনপুর
+Dhaka,Kishoreganj,কিশোরগঞ্জ,Itna,ইটনা,Itna,ইটনা
+Dhaka,Kishoreganj,কিশোরগঞ্জ,Karimganj,করিমগঞ্জ,Karimganj,করিমগঞ্জ
+Dhaka,Kishoreganj,কিশোরগঞ্জ,Katiadi,কটিয়াদী,Katiadi,কটিয়াদী
+Dhaka,Kishoreganj,কিশোরগঞ্জ,Kishoreganj Sadar,কিশোরগঞ্জ সদর,Kishoreganj Sadar,কিশোরগঞ্জ সদর
+Dhaka,Kishoreganj,কিশোরগঞ্জ,Kuliarchar,কুলিয়ারচর,Kuliarchar,কুলিয়ারচর
+Dhaka,Kishoreganj,কিশোরগঞ্জ,Mithamain,মিঠামইন,Mithamain,মিঠামইন
+Dhaka,Kishoreganj,কিশোরগঞ্জ,Nikli,নিকলী,Nikli,নিকলী
+Dhaka,Kishoreganj,কিশোরগঞ্জ,Pakundia,পাকুন্দিয়া,Pakundia,পাকুন্দিয়া
+Dhaka,Kishoreganj,কিশোরগঞ্জ,Tarail,তাড়াইল,Tarail,তাড়াইল
+Dhaka,Madaripur,মাদারীপুর,Kalkini,কালকিনি,Kalkini,কালকিনি
+Dhaka,Madaripur,মাদারীপুর,Madaripur Sadar,মাদারীপুর সদর,Madaripur Sadar,মাদারীপুর সদর
+Dhaka,Madaripur,মাদারীপুর,Rajoir,রাজৈর,Rajoir,রাজৈর
+Dhaka,Madaripur,মাদারীপুর,Shibchar,শিবচর,Shibchar,শিবচর
+Dhaka,Manikganj,মানিকগঞ্জ,Daulatpur,দৌলতপুর,Daulatpur,দৌলতপুর
+Dhaka,Manikganj,মানিকগঞ্জ,Ghior,ঘিওর,Ghior,ঘিওর
+Dhaka,Manikganj,মানিকগঞ্জ,Harirampur,হরিরামপুর,Harirampur,হরিরামপুর
+Dhaka,Manikganj,মানিকগঞ্জ,Manikganj Sadar,মানিকগঞ্জ সদর,Manikganj Sadar,মানিকগঞ্জ সদর
+Dhaka,Manikganj,মানিকগঞ্জ,Saturia,সাটুরিয়া,Saturia,সাটুরিয়া
+Dhaka,Manikganj,মানিকগঞ্জ,Shivalaya,শিবালয়,Shivalaya,শিবালয়
+Dhaka,Manikganj,মানিকগঞ্জ,Singair,সিঙ্গাইর,Singair,সিঙ্গাইর
+Dhaka,Munshiganj,মুন্সীগঞ্জ,Gazaria,গজারিয়া,Gazaria,গজারিয়া
+Dhaka,Munshiganj,মুন্সীগঞ্জ,Lohajang,লৌহজং,Lohajang,লৌহজং
+Dhaka,Munshiganj,মুন্সীগঞ্জ,Munshiganj Sadar,মুন্সীগঞ্জ সদর,Munshiganj Sadar,মুন্সীগঞ্জ সদর
+Dhaka,Munshiganj,মুন্সীগঞ্জ,Sirajdikhan,সিরাজদিখান,Sirajdikhan,সিরাজদিখান
+Dhaka,Munshiganj,মুন্সীগঞ্জ,Sreenagar,শ্রীনগর,Sreenagar,শ্রীনগর
+Dhaka,Munshiganj,মুন্সীগঞ্জ,Tongibari,টংগীবাড়ী,Tongibari,টংগীবাড়ী
+Dhaka,Narayanganj,নারায়ণগঞ্জ,Araihazar,আড়াইহাজার,Araihazar,আড়াইহাজার
+Dhaka,Narayanganj,নারায়ণগঞ্জ,Bandar,বন্দর,Bandar,বন্দর
+Dhaka,Narayanganj,নারায়ণগঞ্জ,Narayanganj Sadar,নারায়ণগঞ্জ সদর,Narayanganj Sadar,নারায়ণগঞ্জ সদর
+Dhaka,Narayanganj,নারায়ণগঞ্জ,Rupganj,রূপগঞ্জ,Rupganj,রূপগঞ্জ
+Dhaka,Narayanganj,নারায়ণগঞ্জ,Sonargaon,সোনারগাঁও,Sonargaon,সোনারগাঁও
+Dhaka,Narsingdi,নরসিংদী,Belabo,বেলাবো,Belabo,বেলাবো
+Dhaka,Narsingdi,নরসিংদী,Monohardi,মনোহরদী,Monohardi,মনোহরদী
+Dhaka,Narsingdi,নরসিংদী,Narsingdi Sadar,নরসিংদী সদর,Narsingdi Sadar,নরসিংদী সদর
+Dhaka,Narsingdi,নরসিংদী,Palash,পলাশ,Palash,পলাশ
+Dhaka,Narsingdi,নরসিংদী,Raipura,রায়পুরা,Raipura,রায়পুরা
+Dhaka,Narsingdi,নরসিংদী,Shibpur,শিবপুর,Shibpur,শিবপুর
+Dhaka,Rajbari,রাজবাড়ী,Baliakandi,বালিয়াকান্দি,Baliakandi,বালিয়াকান্দি
+Dhaka,Rajbari,রাজবাড়ী,Goalandaghat,গোয়ালন্দ ঘাট,Goalandaghat,গোয়ালন্দ ঘাট
+Dhaka,Rajbari,রাজবাড়ী,Kalukhali,কালুখালী,Kalukhali,কালুখালী
+Dhaka,Rajbari,রাজবাড়ী,Pangsha,পাংশা,Pangsha,পাংশা
+Dhaka,Rajbari,রাজবাড়ী,Rajbari Sadar,রাজবাড়ী সদর,Rajbari Sadar,রাজবাড়ী সদর
+Dhaka,Shariatpur,শরীয়তপুর,Bhedarganj,ভেদরগঞ্জ,Bhedarganj,ভেদরগঞ্জ
+Dhaka,Shariatpur,শরীয়তপুর,Damudya,ডামুড্যা,Damudya,ডামুড্যা
+Dhaka,Shariatpur,শরীয়তপুর,Gosairhat,গোসাইরহাট,Gosairhat,গোসাইরহাট
+Dhaka,Shariatpur,শরীয়তপুর,Naria,নড়িয়া,Naria,নড়িয়া
+Dhaka,Shariatpur,শরীয়তপুর,Shariatpur Sadar,শরীয়তপুর সদর,Shariatpur Sadar,শরীয়তপুর সদর
+Dhaka,Shariatpur,শরীয়তপুর,Zajira,জাজিরা,Zajira,জাজিরা
+Dhaka,Tangail,টাঙ্গাইল,Basail,বাসাইল,Basail,বাসাইল
+Dhaka,Tangail,টাঙ্গাইল,Bhuapur,ভুয়াপুর,Bhuapur,ভুয়াপুর
+Dhaka,Tangail,টাঙ্গাইল,Delduar,দেলদুয়ার,Delduar,দেলদুয়ার
+Dhaka,Tangail,টাঙ্গাইল,Dhanbari,ধনবাড়ী,Dhanbari,ধনবাড়ী
+Dhaka,Tangail,টাঙ্গাইল,Ghatail,ঘাটাইল,Ghatail,ঘাটাইল
+Dhaka,Tangail,টাঙ্গাইল,Gopalpur,গোপালপুর,Gopalpur,গোপালপুর
+Dhaka,Tangail,টাঙ্গাইল,Kalihati,কালিহাতী,Kalihati,কালিহাতী
+Dhaka,Tangail,টাঙ্গাইল,Madhupur,মধুপুর,Madhupur,মধুপুর
+Dhaka,Tangail,টাঙ্গাইল,Mirzapur,মির্জাপুর,Mirzapur,মির্জাপুর
+Dhaka,Tangail,টাঙ্গাইল,Nagarpur,নাগরপুর,Nagarpur,নাগরপুর
+Dhaka,Tangail,টাঙ্গাইল,Sakhipur,সখিপুর,Sakhipur,সখিপুর
+Dhaka,Tangail,টাঙ্গাইল,Tangail Sadar,টাঙ্গাইল সদর,Tangail Sadar,টাঙ্গাইল সদর
+Chattogram,Bandarban,বান্দরবান,Alikadam,আলীকদম,Alikadam,আলীকদম
+Chattogram,Bandarban,বান্দরবান,Bandarban Sadar,বান্দরবান সদর,Bandarban Sadar,বান্দরবান সদর
+Chattogram,Bandarban,বান্দরবান,Lama,লামা,Lama,লামা
+Chattogram,Bandarban,বান্দরবান,Naikhongchhari,নাইক্ষ্যংছড়ি,Naikhongchhari,নাইক্ষ্যংছড়ি
+Chattogram,Bandarban,বান্দরবান,Rowangchhari,রোয়াংছড়ি,Rowangchhari,রোয়াংছড়ি
+Chattogram,Bandarban,বান্দরবান,Ruma,রুমা,Ruma,রুমা
+Chattogram,Bandarban,বান্দরবান,Thanchi,থানচি,Thanchi,থানচি
+Chattogram,Brahmanbaria,ব্রাহ্মণবাড়িয়া,Akhaura,আখাউড়া,Akhaura,আখাউড়া
+Chattogram,Brahmanbaria,ব্রাহ্মণবাড়িয়া,Ashuganj,আশুগঞ্জ,Ashuganj,আশুগঞ্জ
+Chattogram,Brahmanbaria,ব্রাহ্মণবাড়িয়া,Bancharampur,বাঞ্ছারামপুর,Bancharampur,বাঞ্ছারামপুর
+Chattogram,Brahmanbaria,ব্রাহ্মণবাড়িয়া,Bijoynagar,বিজয়নগর,Bijoynagar,বিজয়নগর
+Chattogram,Brahmanbaria,ব্রাহ্মণবাড়িয়া,Brahmanbaria Sadar,ব্রাহ্মণবাড়িয়া সদর,Brahmanbaria Sadar,ব্রাহ্মণবাড়িয়া সদর
+Chattogram,Brahmanbaria,ব্রাহ্মণবাড়িয়া,Kasba,কসবা,Kasba,কসবা
+Chattogram,Brahmanbaria,ব্রাহ্মণবাড়িয়া,Nabinagar,নবীনগর,Nabinagar,নবীনগর
+Chattogram,Brahmanbaria,ব্রাহ্মণবাড়িয়া,Nasirnagar,নাসিরনগর,Nasirnagar,নাসিরনগর
+Chattogram,Brahmanbaria,ব্রাহ্মণবাড়িয়া,Sarail,সরাইল,Sarail,সরাইল
+Chattogram,Chandpur,চাঁদপুর,Chandpur Sadar,চাঁদপুর সদর,Chandpur Sadar,চাঁদপুর সদর
+Chattogram,Chandpur,চাঁদপুর,Faridganj,ফরিদগঞ্জ,Faridganj,ফরিদগঞ্জ
+Chattogram,Chandpur,চাঁদপুর,Haimchar,হাইমচর,Haimchar,হাইমচর
+Chattogram,Chandpur,চাঁদপুর,Haziganj,হাজীগঞ্জ,Haziganj,হাজীগঞ্জ
+Chattogram,Chandpur,চাঁদপুর,Kachua,কচুয়া,Kachua,কচুয়া
+Chattogram,Chandpur,চাঁদপুর,Matlab Dakshin,মতলব দক্ষিণ,Matlab Dakshin,মতলব দক্ষিণ
+Chattogram,Chandpur,চাঁদপুর,Matlab Uttar,মতলব উত্তর,Matlab Uttar,মতলব উত্তর
+Chattogram,Chandpur,চাঁদপুর,Shahrasti,শাহরাস্তি,Shahrasti,শাহরাস্তি
+Chattogram,Chattogram,চট্টগ্রাম,Anwara,আনোয়ারা,Anwara,আনোয়ারা
+Chattogram,Chattogram,চট্টগ্রাম,Banshkhali,বাঁশখালী,Banshkhali,বাঁশখালী
+Chattogram,Chattogram,চট্টগ্রাম,Boalkhali,বোয়ালখালী,Boalkhali,বোয়ালখালী
+Chattogram,Chattogram,চট্টগ্রাম,Chandanaish,চন্দনাইশ,Chandanaish,চন্দনাইশ
+Chattogram,Chattogram,চট্টগ্রাম,Fatikchhari,ফটিকছড়ি,Fatikchhari,ফটিকছড়ি
+Chattogram,Chattogram,চট্টগ্রাম,Hathazari,হাটহাজারী,Hathazari,হাটহাজারী
+Chattogram,Chattogram,চট্টগ্রাম,Karnaphuli,কর্ণফুলী,Karnaphuli,কর্ণফুলী
+Chattogram,Chattogram,চট্টগ্রাম,Lohagara,লোহাগাড়া,Lohagara,লোহাগাড়া
+Chattogram,Chattogram,চট্টগ্রাম,Mirsharai,মীরসরাই,Mirsharai,মীরসরাই
+Chattogram,Chattogram,চট্টগ্রাম,Patiya,পটিয়া,Patiya,পটিয়া
+Chattogram,Chattogram,চট্টগ্রাম,Rangunia,রাঙ্গুনিয়া,Rangunia,রাঙ্গুনিয়া
+Chattogram,Chattogram,চট্টগ্রাম,Raozan,রাউজান,Raozan,রাউজান
+Chattogram,Chattogram,চট্টগ্রাম,Sandwip,সন্দ্বীপ,Sandwip,সন্দ্বীপ
+Chattogram,Chattogram,চট্টগ্রাম,Satkania,সাতকানিয়া,Satkania,সাতকানিয়া
+Chattogram,Chattogram,চট্টগ্রাম,Sitakunda,সীতাকুণ্ড,Sitakunda,সীতাকুণ্ড
+Chattogram,Cox's Bazar,কক্সবাজার,Chakaria,চকরিয়া,Chakaria,চকরিয়া
+Chattogram,Cox's Bazar,কক্সবাজার,Cox's Bazar Sadar,কক্সবাজার সদর,Cox's Bazar Sadar,কক্সবাজার সদর
+Chattogram,Cox's Bazar,কক্সবাজার,Kutubdia,কুতুবদিয়া,Kutubdia,কুতুবদিয়া
+Chattogram,Cox's Bazar,কক্সবাজার,Maheshkhali,মহেশখালী,Maheshkhali,মহেশখালী
+Chattogram,Cox's Bazar,কক্সবাজার,Pekua,পেকুয়া,Pekua,পেকুয়া
+Chattogram,Cox's Bazar,কক্সবাজার,Ramu,রামু,Ramu,রামু
+Chattogram,Cox's Bazar,কক্সবাজার,Teknaf,টেকনাফ,Teknaf,টেকনাফ
+Chattogram,Cox's Bazar,কক্সবাজার,Ukhia,উখিয়া,Ukhia,উখিয়া
+Chattogram,Cumilla,কুমিল্লা,Barura,বরুড়া,Barura,বরুড়া
+Chattogram,Cumilla,কুমিল্লা,Brahmanpara,ব্রাহ্মণপাড়া,Brahmanpara,ব্রাহ্মণপাড়া
+Chattogram,Cumilla,কুমিল্লা,Burichang,বুড়িচং,Burichang,বুড়িচং
+Chattogram,Cumilla,কুমিল্লা,Chandina,চান্দিনা,Chandina,চান্দিনা
+Chattogram,Cumilla,কুমিল্লা,Chauddagram,চৌদ্দগ্রাম,Chauddagram,চৌদ্দগ্রাম
+Chattogram,Cumilla,কুমিল্লা,Cumilla Adarsha Sadar,কুমিল্লা আদর্শ সদর,Cumilla Adarsha Sadar,কুমিল্লা আদর্শ সদর
+Chattogram,Cumilla,কুমিল্লা,Cumilla Sadar Dakshin,কুমিল্লা সদর দক্ষিণ,Cumilla Sadar Dakshin,কুমিল্লা সদর দক্ষিণ
+Chattogram,Cumilla,কুমিল্লা,Daudkandi,দাউদকান্দি,Daudkandi,দাউদকান্দি
+Chattogram,Cumilla,কুমিল্লা,Debidwar,দেবিদ্বার,Debidwar,দেবিদ্বার
+Chattogram,Cumilla,কুমিল্লা,Homna,হোমনা,Homna,হোমনা
+Chattogram,Cumilla,কুমিল্লা,Laksam,লাকসাম,Laksam,লাকসাম
+Chattogram,Cumilla,কুমিল্লা,Lalmai,লালমাই,Lalmai,লালমাই
+Chattogram,Cumilla,কুমিল্লা,Meghna,মেঘনা,Meghna,মেঘনা
+Chattogram,Cumilla,কুমিল্লা,Monoharganj,মনোহরগঞ্জ,Monoharganj,মনোহরগঞ্জ
+Chattogram,Cumilla,কুমিল্লা,Muradnagar,মুরাদনগর,Muradnagar,মুরাদনগর
+Chattogram,Cumilla,কুমিল্লা,Nangalkot,নাঙ্গলকোট,Nangalkot,নাঙ্গলকোট
+Chattogram,Cumilla,কুমিল্লা,Titas,তিতাস,Titas,তিতাস
+Chattogram,Feni,ফেনী,Chhagalnaiya,ছাগলনাইয়া,Chhagalnaiya,ছাগলনাইয়া
+Chattogram,Feni,ফেনী,Daganbhuiyan,দাগনভূঞা,Daganbhuiyan,দাগনভূঞা
+Chattogram,Feni,ফেনী,Feni Sadar,ফেনী সদর,Feni Sadar,ফেনী সদর
+Chattogram,Feni,ফেনী,Fulgazi,ফুলগাজী,Fulgazi,ফুলগাজী
+Chattogram,Feni,ফেনী,Parshuram,পরশুরাম,Parshuram,পরশুরাম
+Chattogram,Feni,ফেনী,Sonagazi,সোনাগাজী,Sonagazi,সোনাগাজী
+Chattogram,Khagrachhari,খাগড়াছড়ি,Dighinala,দীঘিনালা,Dighinala,দীঘিনালা
+Chattogram,Khagrachhari,খাগড়াছড়ি,Guimara,গুইমারা,Guimara,গুইমারা
+Chattogram,Khagrachhari,খাগড়াছড়ি,Khagrachhari Sadar,খাগড়াছড়ি সদর,Khagrachhari Sadar,খাগড়াছড়ি সদর
+Chattogram,Khagrachhari,খাগড়াছড়ি,Lakshmichhari,লক্ষ্মীছড়ি,Lakshmichhari,লক্ষ্মীছড়ি
+Chattogram,Khagrachhari,খাগড়াছড়ি,Mahalchhari,মহালছড়ি,Mahalchhari,মহালছড়ি
+Chattogram,Khagrachhari,খাগড়াছড়ি,Manikchhari,মানিকছড়ি,Manikchhari,মানিকছড়ি
+Chattogram,Khagrachhari,খাগড়াছড়ি,Matiranga,মাটিরাঙ্গা,Matiranga,মাটিরাঙ্গা
+Chattogram,Khagrachhari,খাগড়াছড়ি,Panchhari,পানছড়ি,Panchhari,পানছড়ি
+Chattogram,Khagrachhari,খাগড়াছড়ি,Ramgarh,রামগড়,Ramgarh,রামগড়
+Chattogram,Lakshmipur,লক্ষ্মীপুর,Kamalnagar,কমলনগর,Kamalnagar,কমলনগর
+Chattogram,Lakshmipur,লক্ষ্মীপুর,Lakshmipur Sadar,লক্ষ্মীপুর সদর,Lakshmipur Sadar,লক্ষ্মীপুর সদর
+Chattogram,Lakshmipur,লক্ষ্মীপুর,Raipur,রায়পুর,Raipur,রায়পুর
+Chattogram,Lakshmipur,লক্ষ্মীপুর,Ramganj,রামগঞ্জ,Ramganj,রামগঞ্জ
+Chattogram,Lakshmipur,লক্ষ্মীপুর,Ramgati,রামগতি,Ramgati,রামগতি
+Chattogram,Noakhali,নোয়াখালী,Begumganj,বেগমগঞ্জ,Begumganj,বেগমগঞ্জ
+Chattogram,Noakhali,নোয়াখালী,Chatkhil,চাটখিল,Chatkhil,চাটখিল
+Chattogram,Noakhali,নোয়াখালী,Companiganj,কোম্পানীগঞ্জ,Companiganj,কোম্পানীগঞ্জ
+Chattogram,Noakhali,নোয়াখালী,Hatiya,হাতিয়া,Hatiya,হাতিয়া
+Chattogram,Noakhali,নোয়াখালী,Kabirhat,কবিরহাট,Kabirhat,কবিরহাট
+Chattogram,Noakhali,নোয়াখালী,Noakhali Sadar,নোয়াখালী সদর,Noakhali Sadar,নোয়াখালী সদর
+Chattogram,Noakhali,নোয়াখালী,Senbagh,সেনবাগ,Senbagh,সেনবাগ
+Chattogram,Noakhali,নোয়াখালী,Sonaimuri,সোনাইমুড়ী,Sonaimuri,সোনাইমুড়ী
+Chattogram,Noakhali,নোয়াখালী,Subarnachar,সুবর্ণচর,Subarnachar,সুবর্ণচর
+Chattogram,Rangamati,রাঙ্গামাটি,Baghaichhari,বাঘাইছড়ি,Baghaichhari,বাঘাইছড়ি
+Chattogram,Rangamati,রাঙ্গামাটি,Barkal,বরকল,Barkal,বরকল
+Chattogram,Rangamati,রাঙ্গামাটি,Belaichhari,বিলাইছড়ি,Belaichhari,বিলাইছড়ি
+Chattogram,Rangamati,রাঙ্গামাটি,Juraichhari,জুরাছড়ি,Juraichhari,জুরাছড়ি
+Chattogram,Rangamati,রাঙ্গামাটি,Kaptai,কাপ্তাই,Kaptai,কাপ্তাই
+Chattogram,Rangamati,রাঙ্গামাটি,Kawkhali,কাউখালী,Kawkhali,কাউখালী
+Chattogram,Rangamati,রাঙ্গামাটি,Langadu,লংগদু,Langadu,লংগদু
+Chattogram,Rangamati,রাঙ্গামাটি,Naniarchar,নানিয়ারচর,Naniarchar,নানিয়ারচর
+Chattogram,Rangamati,রাঙ্গামাটি,Rajasthali,রাজস্থলী,Rajasthali,রাজস্থলী
+Chattogram,Rangamati,রাঙ্গামাটি,Rangamati Sadar,রাঙ্গামাটি সদর,Rangamati Sadar,রাঙ্গামাটি সদর
+Rajshahi,Bogura,বগুড়া,Adamdighi,আদমদিঘী,Adamdighi,আদমদিঘী
+Rajshahi,Bogura,বগুড়া,Bogura Sadar,বগুড়া সদর,Bogura Sadar,বগুড়া সদর
+Rajshahi,Bogura,বগুড়া,Dhunat,ধুনট,Dhunat,ধুনট
+Rajshahi,Bogura,বগুড়া,Dhupchanchia,দুপচাঁচিয়া,Dhupchanchia,দুপচাঁচিয়া
+Rajshahi,Bogura,বগুড়া,Gabtali,গাবতলী,Gabtali,গাবতলী
+Rajshahi,Bogura,বগুড়া,Kahaloo,কাহালু,Kahaloo,কাহালু
+Rajshahi,Bogura,বগুড়া,Nandigram,নন্দীগ্রাম,Nandigram,নন্দীগ্রাম
+Rajshahi,Bogura,বগুড়া,Sariakandi,সারিয়াকান্দি,Sariakandi,সারিয়াকান্দি
+Rajshahi,Bogura,বগুড়া,Shajahanpur,শাজাহানপুর,Shajahanpur,শাজাহানপুর
+Rajshahi,Bogura,বগুড়া,Sherpur,শেরপুর,Sherpur,শেরপুর
+Rajshahi,Bogura,বগুড়া,Shibganj,শিবগঞ্জ,Shibganj,শিবগঞ্জ
+Rajshahi,Bogura,বগুড়া,Sonatala,সোনাতলা,Sonatala,সোনাতলা
+Rajshahi,Joypurhat,জয়পুরহাট,Akkelpur,আক্কেলপুর,Akkelpur,আক্কেলপুর
+Rajshahi,Joypurhat,জয়পুরহাট,Joypurhat Sadar,জয়পুরহাট সদর,Joypurhat Sadar,জয়পুরহাট সদর
+Rajshahi,Joypurhat,জয়পুরহাট,Kalai,কালাই,Kalai,কালাই
+Rajshahi,Joypurhat,জয়পুরহাট,Khetlal,ক্ষেতলাল,Khetlal,ক্ষেতলাল
+Rajshahi,Joypurhat,জয়পুরহাট,Panchbibi,পাঁচবিবি,Panchbibi,পাঁচবিবি
+Rajshahi,Naogaon,নওগাঁ,Atrai,আত্রাই,Atrai,আত্রাই
+Rajshahi,Naogaon,নওগাঁ,Badalgachhi,বদলগাছী,Badalgachhi,বদলগাছী
+Rajshahi,Naogaon,নওগাঁ,Dhamoirhat,ধামইরহাট,Dhamoirhat,ধামইরহাট
+Rajshahi,Naogaon,নওগাঁ,Manda,মান্দা,Manda,মান্দা
+Rajshahi,Naogaon,নওগাঁ,Mohadevpur,মহাদেবপুর,Mohadevpur,মহাদেবপুর
+Rajshahi,Naogaon,নওগাঁ,Naogaon Sadar,নওগাঁ সদর,Naogaon Sadar,নওগাঁ সদর
+Rajshahi,Naogaon,নওগাঁ,Niamatpur,নিয়ামতপুর,Niamatpur,নিয়ামতপুর
+Rajshahi,Naogaon,নওগাঁ,Patnitala,পত্নীতলা,Patnitala,পত্নীতলা
+Rajshahi,Naogaon,নওগাঁ,Porsha,পোরশা,Porsha,পোরশা
+Rajshahi,Naogaon,নওগাঁ,Raninagar,রাণীনগর,Raninagar,রাণীনগর
+Rajshahi,Naogaon,নওগাঁ,Sapahar,সাপাহার,Sapahar,সাপাহার
+Rajshahi,Natore,নাটোর,Bagatipara,বাগাতিপাড়া,Bagatipara,বাগাতিপাড়া
+Rajshahi,Natore,নাটোর,Baraigram,বড়াইগ্রাম,Baraigram,বড়াইগ্রাম
+Rajshahi,Natore,নাটোর,Gurudaspur,গুরুদাসপুর,Gurudaspur,গুরুদাসপুর
+Rajshahi,Natore,নাটোর,Lalpur,লালপুর,Lalpur,লালপুর
+Rajshahi,Natore,নাটোর,Naldanga,নলডাঙ্গা,Naldanga,নলডাঙ্গা
+Rajshahi,Natore,নাটোর,Natore Sadar,নাটোর সদর,Natore Sadar,নাটোর সদর
+Rajshahi,Natore,নাটোর,Singra,সিংড়া,Singra,সিংড়া
+Rajshahi,Chapainawabganj,চাঁপাইনবাবগঞ্জ,Bholahat,ভোলাহাট,Bholahat,ভোলাহাট
+Rajshahi,Chapainawabganj,চাঁপাইনবাবগঞ্জ,Gomastapur,গোমস্তাপুর,Gomastapur,গোমস্তাপুর
+Rajshahi,Chapainawabganj,চাঁপাইনবাবগঞ্জ,Nachole,নাচোল,Nachole,নাচোল
+Rajshahi,Chapainawabganj,চাঁপাইনবাবগঞ্জ,Nawabganj Sadar,চাঁপাইনবাবগঞ্জ সদর,Nawabganj Sadar,চাঁপাইনবাবগঞ্জ সদর
+Rajshahi,Chapainawabganj,চাঁপাইনবাবগঞ্জ,Shibganj,শিবগঞ্জ,Shibganj,শিবগঞ্জ
+Rajshahi,Pabna,পাবনা,Atgharia,আটঘরিয়া,Atgharia,আটঘরিয়া
+Rajshahi,Pabna,পাবনা,Bera,বেড়া,Bera,বেড়া
+Rajshahi,Pabna,পাবনা,Bhangura,ভাঙ্গুড়া,Bhangura,ভাঙ্গুড়া
+Rajshahi,Pabna,পাবনা,Chatmohar,চাটমোহর,Chatmohar,চাটমোহর
+Rajshahi,Pabna,পাবনা,Faridpur,ফরিদপুর,Faridpur,ফরিদপুর
+Rajshahi,Pabna,পাবনা,Ishwardi,ঈশ্বরদী,Ishwardi,ঈশ্বরদী
+Rajshahi,Pabna,পাবনা,Pabna Sadar,পাবনা সদর,Pabna Sadar,পাবনা সদর
+Rajshahi,Pabna,পাবনা,Santhia,সাঁথিয়া,Santhia,সাঁথিয়া
+Rajshahi,Pabna,পাবনা,Sujanagar,সুজানগর,Sujanagar,সুজানগর
+Rajshahi,Rajshahi,রাজশাহী,Bagha,বাঘা,Bagha,বাঘা
+Rajshahi,Rajshahi,রাজশাহী,Bagmara,বাগমারা,Bagmara,বাগমারা
+Rajshahi,Rajshahi,রাজশাহী,Charghat,চারঘাট,Charghat,চারঘাট
+Rajshahi,Rajshahi,রাজশাহী,Durgapur,দুর্গাপুর,Durgapur,দুর্গাপুর
+Rajshahi,Rajshahi,রাজশাহী,Godagari,গোদাগাড়ী,Godagari,গোদাগাড়ী
+Rajshahi,Rajshahi,রাজশাহী,Mohanpur,মোহনপুর,Mohanpur,মোহনপুর
+Rajshahi,Rajshahi,রাজশাহী,Paba,পবা,Paba,পবা
+Rajshahi,Rajshahi,রাজশাহী,Puthia,পুঠিয়া,Puthia,পুঠিয়া
+Rajshahi,Rajshahi,রাজশাহী,Tanore,তানোর,Tanore,তানোর
+Rajshahi,Sirajganj,সিরাজগঞ্জ,Belkuchi,বেলকুচি,Belkuchi,বেলকুচি
+Rajshahi,Sirajganj,সিরাজগঞ্জ,Chauhali,চৌহালী,Chauhali,চৌহালী
+Rajshahi,Sirajganj,সিরাজগঞ্জ,Kamarkhanda,কামারখন্দ,Kamarkhanda,কামারখন্দ
+Rajshahi,Sirajganj,সিরাজগঞ্জ,Kazipur,কাজীপুর,Kazipur,কাজীপুর
+Rajshahi,Sirajganj,সিরাজগঞ্জ,Raiganj,রায়গঞ্জ,Raiganj,রায়গঞ্জ
+Rajshahi,Sirajganj,সিরাজগঞ্জ,Shahjadpur,শাহজাদপুর,Shahjadpur,শাহজাদপুর
+Rajshahi,Sirajganj,সিরাজগঞ্জ,Sirajganj Sadar,সিরাজগঞ্জ সদর,Sirajganj Sadar,সিরাজগঞ্জ সদর
+Rajshahi,Sirajganj,সিরাজগঞ্জ,Tarash,তাড়াশ,Tarash,তাড়াশ
+Rajshahi,Sirajganj,সিরাজগঞ্জ,Ullahpara,উল্লাপাড়া,Ullahpara,উল্লাপাড়া
+Khulna,Bagerhat,বাগেরহাট,Bagerhat Sadar,বাগেরহাট সদর,Bagerhat Sadar,বাগেরহাট সদর
+Khulna,Bagerhat,বাগেরহাট,Chitalmari,চিতলমারী,Chitalmari,চিতলমারী
+Khulna,Bagerhat,বাগেরহাট,Fakirhat,ফকিরহাট,Fakirhat,ফকিরহাট
+Khulna,Bagerhat,বাগেরহাট,Kachua,কচুয়া,Kachua,কচুয়া
+Khulna,Bagerhat,বাগেরহাট,Mollahat,মোল্লাহাট,Mollahat,মোল্লাহাট
+Khulna,Bagerhat,বাগেরহাট,Mongla,মংলা,Mongla,মংলা
+Khulna,Bagerhat,বাগেরহাট,Morrelganj,মোড়েলগঞ্জ,Morrelganj,মোড়েলগঞ্জ
+Khulna,Bagerhat,বাগেরহাট,Rampal,রামপাল,Rampal,রামপাল
+Khulna,Bagerhat,বাগেরহাট,Sarankhola,শরণখোলা,Sarankhola,শরণখোলা
+Khulna,Chuadanga,চুয়াডাঙ্গা,Alamdanga,আলমডাঙ্গা,Alamdanga,আলমডাঙ্গা
+Khulna,Chuadanga,চুয়াডাঙ্গা,Chuadanga Sadar,চুয়াডাঙ্গা সদর,Chuadanga Sadar,চুয়াডাঙ্গা সদর
+Khulna,Chuadanga,চুয়াডাঙ্গা,Damurhuda,দামুড়হুদা,Damurhuda,দামুড়হুদা
+Khulna,Chuadanga,চুয়াডাঙ্গা,Jibannagar,জীবননগর,Jibannagar,জীবননগর
+Khulna,Jashore,যশোর,Abhaynagar,অভয়নগর,Abhaynagar,অভয়নগর
+Khulna,Jashore,যশোর,Bagherpara,বাঘারপাড়া,Bagherpara,বাঘারপাড়া
+Khulna,Jashore,যশোর,Chaugachha,চৌগাছা,Chaugachha,চৌগাছা
+Khulna,Jashore,যশোর,Jashore Sadar,যশোর সদর,Jashore Sadar,যশোর সদর
+Khulna,Jashore,যশোর,Jhikargachha,ঝিকরগাছা,Jhikargachha,ঝিকরগাছা
+Khulna,Jashore,যশোর,Keshabpur,কেশবপুর,Keshabpur,কেশবপুর
+Khulna,Jashore,যশোর,Manirampur,মণিরামপুর,Manirampur,মণিরামপুর
+Khulna,Jashore,যশোর,Sharsha,শার্শা,Sharsha,শার্শা
+Khulna,Jhenaidah,ঝিনাইদহ,Harinakunda,হরিণাকুন্ডু,Harinakunda,হরিণাকুন্ডু
+Khulna,Jhenaidah,ঝিনাইদহ,Jhenaidah Sadar,ঝিনাইদহ সদর,Jhenaidah Sadar,ঝিনাইদহ সদর
+Khulna,Jhenaidah,ঝিনাইদহ,Kaliganj,কালীগঞ্জ,Kaliganj,কালীগঞ্জ
+Khulna,Jhenaidah,ঝিনাইদহ,Kotchandpur,কোটচাঁদপুর,Kotchandpur,কোটচাঁদপুর
+Khulna,Jhenaidah,ঝিনাইদহ,Maheshpur,মহেশপুর,Maheshpur,মহেশপুর
+Khulna,Jhenaidah,ঝিনাইদহ,Shailkupa,শৈলকুপা,Shailkupa,শৈলকুপা
+Khulna,Khulna,খুলনা,Batiaghata,বটিয়াঘাটা,Batiaghata,বটিয়াঘাটা
+Khulna,Khulna,খুলনা,Dacope,দাকোপ,Dacope,দাকোপ
+Khulna,Khulna,খুলনা,Dighalia,দিঘলিয়া,Dighalia,দিঘলিয়া
+Khulna,Khulna,খুলনা,Dumuria,ডুমুরিয়া,Dumuria,ডুমুরিয়া
+Khulna,Khulna,খুলনা,Koyra,কয়রা,Koyra,কয়রা
+Khulna,Khulna,খুলনা,Paikgachha,পাইকগাছা,Paikgachha,পাইকগাছা
+Khulna,Khulna,খুলনা,Phultala,ফুলতলা,Phultala,ফুলতলা
+Khulna,Khulna,খুলনা,Rupsha,রূপসা,Rupsha,রূপসা
+Khulna,Khulna,খুলনা,Terokhada,তেরখাদা,Terokhada,তেরখাদা
+Khulna,Kushtia,কুষ্টিয়া,Bheramara,ভেড়ামারা,Bheramara,ভেড়ামারা
+Khulna,Kushtia,কুষ্টিয়া,Daulatpur,দৌলতপুর,Daulatpur,দৌলতপুর
+Khulna,Kushtia,কুষ্টিয়া,Khoksa,খোকসা,Khoksa,খোকসা
+Khulna,Kushtia,কুষ্টিয়া,Kumarkhali,কুমারখালী,Kumarkhali,কুমারখালী
+Khulna,Kushtia,কুষ্টিয়া,Kushtia Sadar,কুষ্টিয়া সদর,Kushtia Sadar,কুষ্টিয়া সদর
+Khulna,Kushtia,কুষ্টিয়া,Mirpur,মিরপুর,Mirpur,মিরপুর
+Khulna,Magura,মাগুরা,Magura Sadar,মাগুরা সদর,Magura Sadar,মাগুরা সদর
+Khulna,Magura,মাগুরা,Mohammadpur,মহম্মদপুর,Mohammadpur,মহম্মদপুর
+Khulna,Magura,মাগুরা,Shalikha,শালিখা,Shalikha,শালিখা
+Khulna,Magura,মাগুরা,Sreepur,শ্রীপুর,Sreepur,শ্রীপুর
+Khulna,Meherpur,মেহেরপুর,Gangni,গাংনী,Gangni,গাংনী
+Khulna,Meherpur,মেহেরপুর,Meherpur Sadar,মেহেরপুর সদর,Meherpur Sadar,মেহেরপুর সদর
+Khulna,Meherpur,মেহেরপুর,Mujibnagar,মুজিবনগর,Mujibnagar,মুজিবনগর
+Khulna,Narail,নড়াইল,Kalia,কালিয়া,Kalia,কালিয়া
+Khulna,Narail,নড়াইল,Lohagara,লোহাগড়া,Lohagara,লোহাগড়া
+Khulna,Narail,নড়াইল,Narail Sadar,নড়াইল সদর,Narail Sadar,নড়াইল সদর
+Khulna,Satkhira,সাতক্ষীরা,Assasuni,আশাশুনি,Assasuni,আশাশুনি
+Khulna,Satkhira,সাতক্ষীরা,Debhata,দেবহাটা,Debhata,দেবহাটা
+Khulna,Satkhira,সাতক্ষীরা,Kalaroa,কলারোয়া,Kalaroa,কলারোয়া
+Khulna,Satkhira,সাতক্ষীরা,Kaliganj,কালিগঞ্জ,Kaliganj,কালিগঞ্জ
+Khulna,Satkhira,সাতক্ষীরা,Satkhira Sadar,সাতক্ষীরা সদর,Satkhira Sadar,সাতক্ষীরা সদর
+Khulna,Satkhira,সাতক্ষীরা,Shyamnagar,শ্যামনগর,Shyamnagar,শ্যামনগর
+Khulna,Satkhira,সাতক্ষীরা,Tala,তালা,Tala,তালা
+Barishal,Barguna,বরগুনা,Amtali,আমতলী,Amtali,আমতলী
+Barishal,Barguna,বরগুনা,Bamna,বামনা,Bamna,বামনা
+Barishal,Barguna,বরগুনা,Barguna Sadar,বরগুনা সদর,Barguna Sadar,বরগুনা সদর
+Barishal,Barguna,বরগুনা,Betagi,বেতাগী,Betagi,বেতাগী
+Barishal,Barguna,বরগুনা,Patharghata,পাথরঘাটা,Patharghata,পাথরঘাটা
+Barishal,Barguna,বরগুনা,Taltali,তালতলী,Taltali,তালতলী
+Barishal,Barishal,বরিশাল,Agailjhara,আগৈলঝাড়া,Agailjhara,আগৈলঝাড়া
+Barishal,Barishal,বরিশাল,Babuganj,বাবুগঞ্জ,Babuganj,বাবুগঞ্জ
+Barishal,Barishal,বরিশাল,Bakerganj,বাকেরগঞ্জ,Bakerganj,বাকেরগঞ্জ
+Barishal,Barishal,বরিশাল,Banaripara,বানারীপাড়া,Banaripara,বানারীপাড়া
+Barishal,Barishal,বরিশাল,Barishal Sadar,বরিশাল সদর,Barishal Sadar,বরিশাল সদর
+Barishal,Barishal,বরিশাল,Gaurnadi,গৌরনদী,Gaurnadi,গৌরনদী
+Barishal,Barishal,বরিশাল,Hizla,হিজলা,Hizla,হিজলা
+Barishal,Barishal,বরিশাল,Mehendiganj,মেহেন্দিগঞ্জ,Mehendiganj,মেহেন্দিগঞ্জ
+Barishal,Barishal,বরিশাল,Muladi,মুলাদী,Muladi,মুলাদী
+Barishal,Barishal,বরিশাল,Wazirpur,উজিরপুর,Wazirpur,উজিরপুর
+Barishal,Bhola,ভোলা,Bhola Sadar,ভোলা সদর,Bhola Sadar,ভোলা সদর
+Barishal,Bhola,ভোলা,Burhanuddin,বুরহানউদ্দিন,Burhanuddin,বুরহানউদ্দিন
+Barishal,Bhola,ভোলা,Char Fasson,চরফ্যাশন,Char Fasson,চরফ্যাশন
+Barishal,Bhola,ভোলা,Daulatkhan,দৌলতখান,Daulatkhan,দৌলতখান
+Barishal,Bhola,ভোলা,Lalmohan,লালমোহন,Lalmohan,লালমোহন
+Barishal,Bhola,ভোলা,Manpura,মনপুরা,Manpura,মনপুরা
+Barishal,Bhola,ভোলা,Tazumuddin,তজুমদ্দিন,Tazumuddin,তজুমদ্দিন
+Barishal,Jhalokati,ঝালকাঠি,Jhalokati Sadar,ঝালকাঠি সদর,Jhalokati Sadar,ঝালকাঠি সদর
+Barishal,Jhalokati,ঝালকাঠি,Kathalia,কাঁঠালিয়া,Kathalia,কাঁঠালিয়া
+Barishal,Jhalokati,ঝালকাঠি,Nalchity,নলছিটি,Nalchity,নলছিটি
+Barishal,Jhalokati,ঝালকাঠি,Rajapur,রাজাপুর,Rajapur,রাজাপুর
+Barishal,Patuakhali,পটুয়াখালী,Bauphal,বাউফল,Bauphal,বাউফল
+Barishal,Patuakhali,পটুয়াখালী,Dashmina,দশমিনা,Dashmina,দশমিনা
+Barishal,Patuakhali,পটুয়াখালী,Dumki,দুমকি,Dumki,দুমকি
+Barishal,Patuakhali,পটুয়াখালী,Galachipa,গলাচিপা,Galachipa,গলাচিপা
+Barishal,Patuakhali,পটুয়াখালী,Kalapara,কলাপাড়া,Kalapara,কলাপাড়া
+Barishal,Patuakhali,পটুয়াখালী,Mirzaganj,মির্জাগঞ্জ,Mirzaganj,মির্জাগঞ্জ
+Barishal,Patuakhali,পটুয়াখালী,Patuakhali Sadar,পটুয়াখালী সদর,Patuakhali Sadar,পটুয়াখালী সদর
+Barishal,Patuakhali,পটুয়াখালী,Rangabali,রাঙ্গাবালী,Rangabali,রাঙ্গাবালী
+Barishal,Pirojpur,পিরোজপুর,Bhandaria,ভান্ডারিয়া,Bhandaria,ভান্ডারিয়া
+Barishal,Pirojpur,পিরোজপুর,Kawkhali,কাউখালী,Kawkhali,কাউখালী
+Barishal,Pirojpur,পিরোজপুর,Mathbaria,মঠবাড়িয়া,Mathbaria,মঠবাড়িয়া
+Barishal,Pirojpur,পিরোজপুর,Nazirpur,নাজিরপুর,Nazirpur,নাজিরপুর
+Barishal,Pirojpur,পিরোজপুর,Nesarabad,নেছারাবাদ,Nesarabad,নেছারাবাদ
+Barishal,Pirojpur,পিরোজপুর,Pirojpur Sadar,পিরোজপুর সদর,Pirojpur Sadar,পিরোজপুর সদর
+Barishal,Pirojpur,পিরোজপুর,Zianagar,জিয়ানগর,Zianagar,জিয়ানগর
+Sylhet,Habiganj,হবিগঞ্জ,Ajmiriganj,আজমিরীগঞ্জ,Ajmiriganj,আজমিরীগঞ্জ
+Sylhet,Habiganj,হবিগঞ্জ,Bahubal,বাহুবল,Bahubal,বাহুবল
+Sylhet,Habiganj,হবিগঞ্জ,Baniachong,বানিয়াচং,Baniachong,বানিয়াচং
+Sylhet,Habiganj,হবিগঞ্জ,Chunarughat,চুনারুঘাট,Chunarughat,চুনারুঘাট
+Sylhet,Habiganj,হবিগঞ্জ,Habiganj Sadar,হবিগঞ্জ সদর,Habiganj Sadar,হবিগঞ্জ সদর
+Sylhet,Habiganj,হবিগঞ্জ,Lakhai,লাখাই,Lakhai,লাখাই
+Sylhet,Habiganj,হবিগঞ্জ,Madhabpur,মাধবপুর,Madhabpur,মাধবপুর
+Sylhet,Habiganj,হবিগঞ্জ,Nabiganj,নবীগঞ্জ,Nabiganj,নবীগঞ্জ
+Sylhet,Habiganj,হবিগঞ্জ,Shayestaganj,শায়েস্তাগঞ্জ,Shayestaganj,শায়েস্তাগঞ্জ
+Sylhet,Moulvibazar,মৌলভীবাজার,Barlekha,বড়লেখা,Barlekha,বড়লেখা
+Sylhet,Moulvibazar,মৌলভীবাজার,Juri,জুড়ী,Juri,জুড়ী
+Sylhet,Moulvibazar,মৌলভীবাজার,Kamalganj,কমলগঞ্জ,Kamalganj,কমলগঞ্জ
+Sylhet,Moulvibazar,মৌলভীবাজার,Kulaura,কুলাউড়া,Kulaura,কুলাউড়া
+Sylhet,Moulvibazar,মৌলভীবাজার,Moulvibazar Sadar,মৌলভীবাজার সদর,Moulvibazar Sadar,মৌলভীবাজার সদর
+Sylhet,Moulvibazar,মৌলভীবাজার,Rajnagar,রাজনগর,Rajnagar,রাজনগর
+Sylhet,Moulvibazar,মৌলভীবাজার,Sreemangal,শ্রীমঙ্গল,Sreemangal,শ্রীমঙ্গল
+Sylhet,Sunamganj,সুনামগঞ্জ,Bishwamvarpur,বিশ্বম্ভরপুর,Bishwamvarpur,বিশ্বম্ভরপুর
+Sylhet,Sunamganj,সুনামগঞ্জ,Chhatak,ছাতক,Chhatak,ছাতক
+Sylhet,Sunamganj,সুনামগঞ্জ,Dakshin Sunamganj,দক্ষিণ সুনামগঞ্জ,Dakshin Sunamganj,দক্ষিণ সুনামগঞ্জ
+Sylhet,Sunamganj,সুনামগঞ্জ,Derai,দিরাই,Derai,দিরাই
+Sylhet,Sunamganj,সুনামগঞ্জ,Dharampasha,ধর্মপাশা,Dharampasha,ধর্মপাশা
+Sylhet,Sunamganj,সুনামগঞ্জ,Dowarabazar,দোয়ারাবাজার,Dowarabazar,দোয়ারাবাজার
+Sylhet,Sunamganj,সুনামগঞ্জ,Jagannathpur,জগন্নাথপুর,Jagannathpur,জগন্নাথপুর
+Sylhet,Sunamganj,সুনামগঞ্জ,Jamalganj,জামালগঞ্জ,Jamalganj,জামালগঞ্জ
+Sylhet,Sunamganj,সুনামগঞ্জ,Madhyanagar,মধ্যনগর,Madhyanagar,মধ্যনগর
+Sylhet,Sunamganj,সুনামগঞ্জ,Sulla,শাল্লা,Sulla,শাল্লা
+Sylhet,Sunamganj,সুনামগঞ্জ,Sunamganj Sadar,সুনামগঞ্জ সদর,Sunamganj Sadar,সুনামগঞ্জ সদর
+Sylhet,Sunamganj,সুনামগঞ্জ,Tahirpur,তাহিরপুর,Tahirpur,তাহিরপুর
+Sylhet,Sylhet,সিলেট,Balaganj,বালাগঞ্জ,Balaganj,বালাগঞ্জ
+Sylhet,Sylhet,সিলেট,Beanibazar,বিয়ানীবাজার,Beanibazar,বিয়ানীবাজার
+Sylhet,Sylhet,সিলেট,Bishwanath,বিশ্বনাথ,Bishwanath,বিশ্বনাথ
+Sylhet,Sylhet,সিলেট,Companiganj,কোম্পানীগঞ্জ,Companiganj,কোম্পানীগঞ্জ
+Sylhet,Sylhet,সিলেট,Dakshin Surma,দক্ষিণ সুরমা,Dakshin Surma,দক্ষিণ সুরমা
+Sylhet,Sylhet,সিলেট,Fenchuganj,ফেঞ্চুগঞ্জ,Fenchuganj,ফেঞ্চুগঞ্জ
+Sylhet,Sylhet,সিলেট,Golapganj,গোলাপগঞ্জ,Golapganj,গোলাপগঞ্জ
+Sylhet,Sylhet,সিলেট,Gowainghat,গোয়াইনঘাট,Gowainghat,গোয়াইনঘাট
+Sylhet,Sylhet,সিলেট,Jaintiapur,জৈন্তাপুর,Jaintiapur,জৈন্তাপুর
+Sylhet,Sylhet,সিলেট,Kanaighat,কানাইঘাট,Kanaighat,কানাইঘাট
+Sylhet,Sylhet,সিলেট,Osmani Nagar,ওসমানী নগর,Osmani Nagar,ওসমানী নগর
+Sylhet,Sylhet,সিলেট,Sylhet Sadar,সিলেট সদর,Sylhet Sadar,সিলেট সদর
+Sylhet,Sylhet,সিলেট,Zakiganj,জকিগঞ্জ,Zakiganj,জকিগঞ্জ
+Rangpur,Dinajpur,দিনাজপুর,Birampur,বিরামপুর,Birampur,বিরামপুর
+Rangpur,Dinajpur,দিনাজপুর,Birganj,বীরগঞ্জ,Birganj,বীরগঞ্জ
+Rangpur,Dinajpur,দিনাজপুর,Biral,বিরল,Biral,বিরল
+Rangpur,Dinajpur,দিনাজপুর,Bochaganj,বোচাগঞ্জ,Bochaganj,বোচাগঞ্জ
+Rangpur,Dinajpur,দিনাজপুর,Chirirbandar,চিরিরবন্দর,Chirirbandar,চিরিরবন্দর
+Rangpur,Dinajpur,দিনাজপুর,Dinajpur Sadar,দিনাজপুর সদর,Dinajpur Sadar,দিনাজপুর সদর
+Rangpur,Dinajpur,দিনাজপুর,Ghoraghat,ঘোড়াঘাট,Ghoraghat,ঘোড়াঘাট
+Rangpur,Dinajpur,দিনাজপুর,Hakimpur,হাকিমপুর,Hakimpur,হাকিমপুর
+Rangpur,Dinajpur,দিনাজপুর,Kaharole,কাহারোল,Kaharole,কাহারোল
+Rangpur,Dinajpur,দিনাজপুর,Khansama,খানসামা,Khansama,খানসামা
+Rangpur,Dinajpur,দিনাজপুর,Nawabganj,নবাবগঞ্জ,Nawabganj,নবাবগঞ্জ
+Rangpur,Dinajpur,দিনাজপুর,Parbatipur,পার্বতীপুর,Parbatipur,পার্বতীপুর
+Rangpur,Dinajpur,দিনাজপুর,Phulbari,ফুলবাড়ী,Phulbari,ফুলবাড়ী
+Rangpur,Gaibandha,গাইবান্ধা,Fulchhari,ফুলছড়ি,Fulchhari,ফুলছড়ি
+Rangpur,Gaibandha,গাইবান্ধা,Gaibandha Sadar,গাইবান্ধা সদর,Gaibandha Sadar,গাইবান্ধা সদর
+Rangpur,Gaibandha,গাইবান্ধা,Gobindaganj,গোবিন্দগঞ্জ,Gobindaganj,গোবিন্দগঞ্জ
+Rangpur,Gaibandha,গাইবান্ধা,Palashbari,পলাশবাড়ী,Palashbari,পলাশবাড়ী
+Rangpur,Gaibandha,গাইবান্ধা,Sadullapur,সাদুল্লাপুর,Sadullapur,সাদুল্লাপুর
+Rangpur,Gaibandha,গাইবান্ধা,Saghata,সাঘাটা,Saghata,সাঘাটা
+Rangpur,Gaibandha,গাইবান্ধা,Sundarganj,সুন্দরগঞ্জ,Sundarganj,সুন্দরগঞ্জ
+Rangpur,Kurigram,কুড়িগ্রাম,Bhurungamari,ভুরুঙ্গামারী,Bhurungamari,ভুরুঙ্গামারী
+Rangpur,Kurigram,কুড়িগ্রাম,Chilmari,চিলমারী,Chilmari,চিলমারী
+Rangpur,Kurigram,কুড়িগ্রাম,Kurigram Sadar,কুড়িগ্রাম সদর,Kurigram Sadar,কুড়িগ্রাম সদর
+Rangpur,Kurigram,কুড়িগ্রাম,Nageshwari,নাগেশ্বরী,Nageshwari,নাগেশ্বরী
+Rangpur,Kurigram,কুড়িগ্রাম,Phulbari,ফুলবাড়ী,Phulbari,ফুলবাড়ী
+Rangpur,Kurigram,কুড়িগ্রাম,Rajarhat,রাজারহাট,Rajarhat,রাজারহাট
+Rangpur,Kurigram,কুড়িগ্রাম,Rajibpur,রাজিবপুর,Rajibpur,রাজিবপুর
+Rangpur,Kurigram,কুড়িগ্রাম,Raomari,রৌমারী,Raomari,রৌমারী
+Rangpur,Kurigram,কুড়িগ্রাম,Ulipur,উলিপুর,Ulipur,উলিপুর
+Rangpur,Lalmonirhat,লালমনিরহাট,Aditmari,আদিতমারী,Aditmari,আদিতমারী
+Rangpur,Lalmonirhat,লালমনিরহাট,Hatibandha,হাতীবান্ধা,Hatibandha,হাতীবান্ধা
+Rangpur,Lalmonirhat,লালমনিরহাট,Kaliganj,কালীগঞ্জ,Kaliganj,কালীগঞ্জ
+Rangpur,Lalmonirhat,লালমনিরহাট,Lalmonirhat Sadar,লালমনিরহাট সদর,Lalmonirhat Sadar,লালমনিরহাট সদর
+Rangpur,Lalmonirhat,লালমনিরহাট,Patgram,পাটগ্রাম,Patgram,পাটগ্রাম
+Rangpur,Nilphamari,নীলফামারী,Dimla,ডিমলা,Dimla,ডিমলা
+Rangpur,Nilphamari,নীলফামারী,Domar,ডোমার,Domar,ডোমার
+Rangpur,Nilphamari,নীলফামারী,Jaldhaka,জলঢাকা,Jaldhaka,জলঢাকা
+Rangpur,Nilphamari,নীলফামারী,Kishoreganj,কিশোরগঞ্জ,Kishoreganj,কিশোরগঞ্জ
+Rangpur,Nilphamari,নীলফামারী,Nilphamari Sadar,নীলফামারী সদর,Nilphamari Sadar,নীলফামারী সদর
+Rangpur,Nilphamari,নীলফামারী,Saidpur,সৈয়দপুর,Saidpur,সৈয়দপুর
+Rangpur,Panchagarh,পঞ্চগড়,Atwari,আটোয়ারী,Atwari,আটোয়ারী
+Rangpur,Panchagarh,পঞ্চগড়,Boda,বোদা,Boda,বোদা
+Rangpur,Panchagarh,পঞ্চগড়,Debiganj,দেবীগঞ্জ,Debiganj,দেবীগঞ্জ
+Rangpur,Panchagarh,পঞ্চগড়,Panchagarh Sadar,পঞ্চগড় সদর,Panchagarh Sadar,পঞ্চগড় সদর
+Rangpur,Panchagarh,পঞ্চগড়,Tetulia,তেঁতুলিয়া,Tetulia,তেঁতুলিয়া
+Rangpur,Rangpur,রংপুর,Badarganj,বদরগঞ্জ,Badarganj,বদরগঞ্জ
+Rangpur,Rangpur,রংপুর,Gangachara,গঙ্গাচড়া,Gangachara,গঙ্গাচড়া
+Rangpur,Rangpur,রংপুর,Kaunia,কাউনিয়া,Kaunia,কাউনিয়া
+Rangpur,Rangpur,রংপুর,Mithapukur,মিঠাপুকুর,Mithapukur,মিঠাপুকুর
+Rangpur,Rangpur,রংপুর,Pirgachha,পীরগাছা,Pirgachha,পীরগাছা
+Rangpur,Rangpur,রংপুর,Pirganj,পীরগঞ্জ,Pirganj,পীরগঞ্জ
+Rangpur,Rangpur,রংপুর,Rangpur Sadar,রংপুর সদর,Rangpur Sadar,রংপুর সদর
+Rangpur,Rangpur,রংপুর,Taraganj,তারাগঞ্জ,Taraganj,তারাগঞ্জ
+Rangpur,Thakurgaon,ঠাকুরগাঁও,Baliadangi,বালিয়াডাঙ্গী,Baliadangi,বালিয়াডাঙ্গী
+Rangpur,Thakurgaon,ঠাকুরগাঁও,Haripur,হরিপুর,Haripur,হরিপুর
+Rangpur,Thakurgaon,ঠাকুরগাঁও,Pirganj,পীরগঞ্জ,Pirganj,পীরগঞ্জ
+Rangpur,Thakurgaon,ঠাকুরগাঁও,Ranisankail,রাণীশংকৈল,Ranisankail,রাণীশংকৈল
+Rangpur,Thakurgaon,ঠাকুরগাঁও,Thakurgaon Sadar,ঠাকুরগাঁও সদর,Thakurgaon Sadar,ঠাকুরগাঁও সদর
+Mymensingh,Mymensingh,ময়মনসিংহ,Bhaluka,ভালুকা,Bhaluka,ভালুকা
+Mymensingh,Mymensingh,ময়মনসিংহ,Dhobaura,ধোবাউড়া,Dhobaura,ধোবাউড়া
+Mymensingh,Mymensingh,ময়মনসিংহ,Fulbaria,ফুলবাড়িয়া,Fulbaria,ফুলবাড়িয়া
+Mymensingh,Mymensingh,ময়মনসিংহ,Gaffargaon,গফরগাঁও,Gaffargaon,গফরগাঁও
+Mymensingh,Mymensingh,ময়মনসিংহ,Gauripur,গৌরীপুর,Gauripur,গৌরীপুর
+Mymensingh,Mymensingh,ময়মনসিংহ,Haluaghat,হালুয়াঘাট,Haluaghat,হালুয়াঘাট
+Mymensingh,Mymensingh,ময়মনসিংহ,Ishwarganj,ঈশ্বরগঞ্জ,Ishwarganj,ঈশ্বরগঞ্জ
+Mymensingh,Mymensingh,ময়মনসিংহ,Mymensingh Sadar,ময়মনসিংহ সদর,Mymensingh Sadar,ময়মনসিংহ সদর
+Mymensingh,Mymensingh,ময়মনসিংহ,Muktagachha,মুক্তাগাছা,Muktagachha,মুক্তাগাছা
+Mymensingh,Mymensingh,ময়মনসিংহ,Nandail,নান্দাইল,Nandail,নান্দাইল
+Mymensingh,Mymensingh,ময়মনসিংহ,Phulpur,ফুলপুর,Phulpur,ফুলপুর
+Mymensingh,Mymensingh,ময়মনসিংহ,Tarakanda,তারাকান্দা,Tarakanda,তারাকান্দা
+Mymensingh,Mymensingh,ময়মনসিংহ,Trishal,ত্রিশাল,Trishal,ত্রিশাল
+Mymensingh,Jamalpur,জামালপুর,Baksiganj,বকশীগঞ্জ,Baksiganj,বকশীগঞ্জ
+Mymensingh,Jamalpur,জামালপুর,Dewanganj,দেওয়ানগঞ্জ,Dewanganj,দেওয়ানগঞ্জ
+Mymensingh,Jamalpur,জামালপুর,Islampur,ইসলামপুর,Islampur,ইসলামপুর
+Mymensingh,Jamalpur,জামালপুর,Jamalpur Sadar,জামালপুর সদর,Jamalpur Sadar,জামালপুর সদর
+Mymensingh,Jamalpur,জামালপুর,Madarganj,মাদারগঞ্জ,Madarganj,মাদারগঞ্জ
+Mymensingh,Jamalpur,জামালপুর,Melandaha,মেলান্দহ,Melandaha,মেলান্দহ
+Mymensingh,Jamalpur,জামালপুর,Sarishabari,সরিষাবাড়ী,Sarishabari,সরিষাবাড়ী
+Mymensingh,Netrokona,নেত্রকোণা,Atpara,আটপাড়া,Atpara,আটপাড়া
+Mymensingh,Netrokona,নেত্রকোণা,Barhatta,বারহাট্টা,Barhatta,বারহাট্টা
+Mymensingh,Netrokona,নেত্রকোণা,Durgapur,দুর্গাপুর,Durgapur,দুর্গাপুর
+Mymensingh,Netrokona,নেত্রকোণা,Khaliajuri,খালিয়াজুরী,Khaliajuri,খালিয়াজুরী
+Mymensingh,Netrokona,নেত্রকোণা,Kalmakanda,কলমাকান্দা,Kalmakanda,কলমাকান্দা
+Mymensingh,Netrokona,নেত্রকোণা,Kendua,কেন্দুয়া,Kendua,কেন্দুয়া
+Mymensingh,Netrokona,নেত্রকোণা,Madan,মদন,Madan,মদন
+Mymensingh,Netrokona,নেত্রকোণা,Mohanganj,মোহনগঞ্জ,Mohanganj,মোহনগঞ্জ
+Mymensingh,Netrokona,নেত্রকোণা,Netrokona Sadar,নেত্রকোণা সদর,Netrokona Sadar,নেত্রকোণা সদর
+Mymensingh,Netrokona,নেত্রকোণা,Purbadhala,পূর্বধলা,Purbadhala,পূর্বধলা
+Mymensingh,Sherpur,শেরপুর,Jhenaigati,ঝিনাইগাতী,Jhenaigati,ঝিনাইগাতী
+Mymensingh,Sherpur,শেরপুর,Nakla,নকলা,Nakla,নকলা
+Mymensingh,Sherpur,শেরপুর,Nalitabari,নালিতাবাড়ী,Nalitabari,নালিতাবাড়ী
+Mymensingh,Sherpur,শেরপুর,Sherpur Sadar,শেরপুর সদর,Sherpur Sadar,শেরপুর সদর
+Mymensingh,Sherpur,শেরপুর,Sreebardi,শ্রীবরদী,Sreebardi,শ্রীবরদী
