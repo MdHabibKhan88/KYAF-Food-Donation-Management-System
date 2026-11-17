@@ -39,4 +39,21 @@ class Thana extends Model
             'area_id'
         );
     }
+
+    /**
+     * Get the full Thana name with Upazila.
+     */
+    public function fullName(): string
+    {
+        $upazilaName = $this->upazila?->name_bn
+            ?? $this->upazila?->name_en;
+
+        $thanaName = $this->name_bn ?: $this->name_en;
+
+        if ($upazilaName) {
+            return $upazilaName . ' - ' . $thanaName;
+        }
+
+        return $thanaName ?? '';
+    }
 }
